@@ -24,9 +24,7 @@ The following **additional** features are implemented:
 - [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough
-
-![Simulator Screen Recording - iPhone 15 Pro - 2024-03-27 at 19 34 38](https://github.com/r-oli-m/BobaTumblrBlog/assets/99136190/62f67546-6922-4ec0-88d9-225e53cc574d)
-
+![Uploading BobaTumblrBlogDemo.gif…]()
 
 ## Notes
 
