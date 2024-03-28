@@ -1,6 +1,6 @@
 # Project 5 - *Tumblr Feed*
 
-Submitted by: **Reva Mahtoe**
+Submitted by: **Reva Mahto**
 
 **Tumblr Feed** is an app that brings data from bobahol1c Tumblr blog into iOS app.
 
