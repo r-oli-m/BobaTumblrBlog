@@ -19,12 +19,8 @@ The following **optional** features are implemented:
 - [x] App fetches posts from a different Tumblr blog
 - [x] App has a refresh control to update the table view
 
-The following **additional** features are implemented:
-
-- [ ] List anything else that you can get done to improve the app functionality!
-
 ## Video Walkthrough
-![Uploading BobaTumblrBlogDemo.gif…]()
+![BobaTumblrBlogDemo](https://github.com/r-oli-m/BobaTumblrBlog/assets/99136190/d9a41b67-5f4e-4e67-bc7d-666aaf25db66)
 
 ## Notes
 
